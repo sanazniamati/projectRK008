@@ -1,11 +1,12 @@
 {
-  "name": "projectrk002",
+  "name": "projectrk008",
   "version": "0.1.0",
   "private": true,
+  "description": "How to create a polygon with react-Konva",
   "keywords": [
     "react-konva",
     "react",
-    "Rect"
+    "Line"
   ],
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
